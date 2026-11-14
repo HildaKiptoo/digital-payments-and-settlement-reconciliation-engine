@@ -1,6 +1,6 @@
 # Digital Payments & Settlement Reconciliation Engine
 
-![Settlement & Reconciliation Dashboard](images/settlements_dashboard.png)
+![Settlement & Reconciliation Dashboard](settlements_dashboard.png)
 
 ### 📊 Executive Summary
 In high-volume digital payments and fintech environments, unresolved float variances and settlement drop-offs between internal platforms and banking gateways represent massive financial risk. 
