@@ -1,0 +1,14 @@
+# Python Virtual Environment
+.venv/
+
+# PyCharm / IDE Settings
+.idea/
+
+# Generated Data (Prevents uploading massive 500k row files)
+csv data/
+*.csv
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
